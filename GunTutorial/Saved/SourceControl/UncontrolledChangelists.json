@@ -1,0 +1,47 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Hands/T_QK_Glove_AORM.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Hands/T_QK_Glove_N.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Hands/T_QK_Glove_BC.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Hands/QK_CustomHand_PhysicsAsset.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Hands/QK_CustomHand_Skeleton.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Hands/lambert2.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Hands/QK_CustomHand.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Hands/Animations/ANIM_QK_Grip.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Hands/Animations/ANIM_QK_GunHold.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Hands/Animations/ANIM_QK_KnifeHold.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Hands/Animations/ANIM_QK_Open.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Hands/Animations/ANIM_QK_Pointing.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Hands/Animations/ANIM_QK_Stretched.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Hands/Animations/ANIM_QK_ThumbsUp.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Hands/AB_HandAnim.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Hands/Enum_HandAnimType.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Guns/Global/M_Gun_master_material.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Guns/Guns/Handgun/Materials/MI_handgun.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Guns/Guns/Handgun/Meshes/SM_Handgun.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Guns/Guns/Handgun/Meshes/SM_Handgun_silencer.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Guns/Guns/Handgun/Meshes/SM_Handgun_trigger.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Guns/Guns/Handgun/Meshes/SM_Handgun_barrel.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Guns/Guns/Handgun/Meshes/SM_Handgun_magazine.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Guns/Guns/Handgun/Meshes/SM_Handgun_slide.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Guns/Guns/Handgun/Meshes/SM_9x19mm_Parabellum_casing.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Guns/Global/Materials/MI_cartridges.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Guns/Global/Meshes/SM_9x19mm_Parabellum_round.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Guns/Guns/Blueprints/BP_Gun.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/VRTemplate/Blueprints/GrabComponent.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Guns/Enum_ObjectType.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Guns/Enum_Guntype.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Hands/BS2D_HandAnims.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Hands/Animations/QK_ANIN_HandGun.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/VRTemplate/Blueprints/GrabType.uasset"
+			]
+		}
+	]
+}

@@ -40,7 +40,21 @@
 				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Guns/Enum_Guntype.uasset",
 				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Hands/BS2D_HandAnims.uasset",
 				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Hands/Animations/QK_ANIN_HandGun.uasset",
-				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/VRTemplate/Blueprints/GrabType.uasset"
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/VRTemplate/Blueprints/GrabType.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Hands/ANIM_QK_HandGun_TriggerPressed.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Hands/BS1D_TriggerType.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/VRTemplate/Input/Actions/IA_GunShoot_Left.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/VRTemplate/Input/Actions/IA_DropMag_Right.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/VRTemplate/Input/IMC_Weapon_Left.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/VRTemplate/Input/Actions/IA_SwitchGunMode_Left.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/VRTemplate/Input/Actions/IA_DropMag_Left.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/VRTemplate/Input/Actions/IA_SwitchGunMode_Right.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/VRTemplate/Input/Actions/IA_GunShoot_Right.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/VRTemplate/Input/IMC_Weapon_Right.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/VRTemplate/Blueprints/CurlGrabType.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Hands/Animations/ANIM_QK_Handgun_Magazine.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/VRTemplate/Blueprints/CurlGrabComponent.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Hands/Animations/Anim_QK_Hangun_Slider.uasset"
 			]
 		}
 	]

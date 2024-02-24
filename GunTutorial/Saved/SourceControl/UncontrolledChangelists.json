@@ -57,6 +57,13 @@
 				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Hands/Animations/Anim_QK_Hangun_Slider.uasset",
 				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/VRTemplate/Blueprints/Grabbable_SmallCube.uasset",
 				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Guns/Guns/Handgun/Blueprints/BP_Magazine.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Guns/Guns/Handgun/Audio/Cue_Handgun_Shot.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Guns/Guns/Handgun/Audio/Cue_Handgun_SlideReleased.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Guns/Guns/Handgun/Audio/Cue_Hangun_SlideGrabbed.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Guns/Guns/Handgun/Audio/Cue_Handgun_MagOut.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Guns/Guns/Handgun/Audio/Cue_Handgun_MagIn.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Guns/Guns/Handgun/Audio/Cue_Handgun_dry_fire.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Guns/Guns/Handgun/Audio/Cue_Handgun_Cocked.uasset",
 				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/CurlGrabType.uasset"
 			]
 		}

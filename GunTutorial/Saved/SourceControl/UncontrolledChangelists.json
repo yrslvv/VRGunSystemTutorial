@@ -65,6 +65,14 @@
 				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Guns/Guns/Handgun/Audio/Cue_Handgun_dry_fire.uasset",
 				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Guns/Guns/Handgun/Audio/Cue_Handgun_Cocked.uasset",
 				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Guns/Guns/Handgun/VFX/NS_SlideBulletEjection.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Guns/Enum_FiringModes.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Guns/Guns/Sub-machine_gun/Audio/Sub-machine_gun_SafetyChange_Cue.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Guns/Global/Materials/M_Bullet_decal.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Guns/Global/VFX/P_BulletImpact_default.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Guns/Global/Audio/Cue_BulletImpactDefault.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Guns/Global/Audio/BulletImpactAttenuation.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Guns/Global/Materials/M_Lit_smoke_subUV.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Guns/BPI_Damage.uasset",
 				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/CurlGrabType.uasset"
 			]
 		}

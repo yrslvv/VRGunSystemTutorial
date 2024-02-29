@@ -73,6 +73,13 @@
 				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Guns/Global/Audio/BulletImpactAttenuation.uasset",
 				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Guns/Global/Materials/M_Lit_smoke_subUV.uasset",
 				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Guns/BPI_Damage.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Guns/Guns/Handgun/VFX/Handgun_EjectorShotSmoke.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Guns/Guns/Handgun/VFX/Handgun_EjectorSlideSmoke.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Guns/Guns/Handgun/VFX/Handgun_Silenser_Flash.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Guns/Guns/Handgun/VFX/P_Handgun_MuzzleFlash_Converted.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Guns/Guns/Handgun/Audio/CueSilencerShot.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Guns/Global/Materials/M_muzzle_flash.uasset",
+				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/Guns/Guns/Handgun/VFX/NS_CasingEjection.uasset",
 				"C:/Users/yarik/Desktop/GIT/VRGunSystemTutorial/GunTutorial/Content/CurlGrabType.uasset"
 			]
 		}
